@@ -1,10 +1,10 @@
-.homeland-gallery {
+.gallery {
   max-width: 1190px;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: 50px repeat(2, 1fr);
   grid-gap: 16px 16px;
-  margin: 26px auto 92px;
+  margin: 30px auto 100px;
 }
 
 .gallery__header {
