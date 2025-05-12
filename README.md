@@ -5,4 +5,4 @@ Es una página básica usando código  HTML5  con una estructura convencional 
 Código CSS con sus respectivas clases para cada elemento y las media query para que sea responsivo en cada dispositivo. 
 fuentes y archivos para un buen funcionamiento y orden adecuado
 
-Se puede mejorar el diseño que sea mas llamativo y interactivo para el usario
+Página web con más información puntual, específica, imágenes referentes y reglas CSS diferentes para que sea más interactivo y llamativo para el usuario, sin dejar de ser responsivo
