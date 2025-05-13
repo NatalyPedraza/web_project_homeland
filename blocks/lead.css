@@ -28,7 +28,6 @@
 }
 
 .lead__image {
-  width: 100%;
   max-width: 984px;
   aspect-ratio: 984/615;
   width: 100%;
@@ -36,7 +35,7 @@
   object-fit: cover;
   display: block;
   margin: 20px;
-  filter: grayscale(100%);
+  box-shadow: 8px 5px 20px rgba(0, 0, 0, 0.5);
 }
 
 @media screen and (max-width: 1024px) {
